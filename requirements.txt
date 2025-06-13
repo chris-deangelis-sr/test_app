@@ -3,4 +3,3 @@ numpy
 plotly
 datetime
 scikit-learn
-warnings
