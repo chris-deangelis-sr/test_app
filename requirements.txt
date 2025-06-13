@@ -1,0 +1,11 @@
+pandas
+numpy
+plotly.express
+plotly.graph_objects
+plotly.subplots
+datetime
+random
+sklearn.ensemble
+sklearn.linear_model
+sklearn.preprocessing
+warnings
