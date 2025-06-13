@@ -10,8 +10,6 @@ import random
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import StandardScaler
-import warnings
-warnings.filterwarnings('ignore')
 
 # Set page config
 st.set_page_config(
