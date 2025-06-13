@@ -2,7 +2,6 @@ pandas
 numpy
 plotly
 datetime
-random
 sklearn.ensemble
 sklearn.linear_model
 sklearn.preprocessing
